@@ -1,5 +1,5 @@
-log = 'Turik'
-pas = 'Tur'
+log = 'Admin'
+pas = 'admin'
 
 bol = False
 cehd = 0
