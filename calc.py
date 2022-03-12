@@ -38,13 +38,13 @@ if bol3 == True:
             print(str(x) + ' + ' + str(y) + ' =',x + y)
         elif p == '-':
             print('Netice:')
-            print(str(x) + ' + ' + str(y) + ' =',x - y)
+            print(str(x) + ' - ' + str(y) + ' =',x - y)
         elif p == '*':
             print('Netice:')
-            print(str(x) + ' + ' + str(y) + ' =',x * y)
+            print(str(x) + ' * ' + str(y) + ' =',x * y)
         elif p == '/':
             if x == 0 or y == 0:
                 print('0 -ra bolunmur!')
             else:
                 print('Netice:')
-                print(str(x) + ' + ' + str(y) + ' =',x / y)
+                print(str(x) + ' / ' + str(y) + ' =',x / y)
